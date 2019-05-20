@@ -23,9 +23,11 @@ In no particluar order of seriousness:
 **The core principles**:
 
 * The patient owns the EHR-data.
-* Separate EHR from health care process and communication between health care professionals.
+* EHR-data is the most valuable asset of the system.
+* Separate the EHR-data from health care process data, and communication between health care professionals.
 * Conserve integrety and traceability of changes to EHR-data.
-* EHR-data is the most valuable asset of the system
+
+_Note_: By health care process data is meant, among other things, information on health care units and organisation, status of patient treatment in health care flow, bookings, invoices etc.
 
 **Technical principles**:
 
@@ -45,7 +47,7 @@ In no particluar order of seriousness:
 # EHR-data: some core data sets
 
 * Personal core characteristics; age, weight, length, sex, blood type, etc.
-* Personal charactersitcs; allergies, etc.
+* Personal characteristics; allergies, etc.
 * Personal comments on health.
 * Measurement based data and calculated characteristics; blood pressure, BMI, etc.
 * Lab-based data and calculated characteristics; blood samples, renal clearance, etc.

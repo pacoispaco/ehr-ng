@@ -25,6 +25,7 @@ In no particluar order of seriousness:
 * The patient owns the EHR-data.
 * EHR-data is the most valuable asset of the system.
 * Separate the EHR-data from health care process data, and communication between health care professionals.
+* EHR-data should be seen as a time log of events; a journal.
 * Conserve integrety and traceability of changes to EHR-data.
 
 _Note_: By health care process data is meant, among other things, information on health care units and organisation, status of patient treatment in health care flow, bookings, invoices etc.
@@ -43,13 +44,18 @@ _Note_: By health care process data is meant, among other things, information on
 * Blockchain.
 * C API for accessing EHR-data.
 * Command line tools for accessing and manipulating EHR-data.
+* Mobile app
+* Webb app
+* Microservices for core data sets
 
 # EHR-data: some core data sets
 
-* Personal core characteristics; age, weight, length, sex, blood type, etc.
+_Note_: All data should be seen as being entered on a time line; a journal!
+
+* Personal core characteristics; birth date, weight, length, sex, blood type, etc.
 * Personal characteristics; allergies, etc.
 * Personal comments on health.
-* Measurement based data and calculated characteristics; blood pressure, BMI, etc.
+* Measurement based data and calculated characteristics; age, BMI, blood pressure, etc.
 * Lab-based data and calculated characteristics; blood samples, renal clearance, etc.
 * Image based data; radiography, magnetic resonance imaging, ultrasound, photoacoustic imaging, magnetic particle imaging, etc.
 * Diagnostics by medical professionals.

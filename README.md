@@ -56,10 +56,10 @@ _Note_: All data should be seen as being entered on a time line; a journal!
 * Personal characteristics; allergies, etc.
 * Personal comments on health.
 * Measurement based data and calculated characteristics; age, BMI, blood pressure, etc.
+* Medication data.
+* Vaccination data.
 * Lab-based data and calculated characteristics; blood samples, renal clearance, etc.
 * Image based data; radiography, magnetic resonance imaging, ultrasound, photoacoustic imaging, magnetic particle imaging, etc.
 * Diagnostics by medical professionals.
 * Comments by medicial professionals.
-* Medication data.
-* Vaccination data.
 * Recommended treatment and instructions by medical professionals.
